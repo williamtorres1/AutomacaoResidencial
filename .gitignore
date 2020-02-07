@@ -72,3 +72,8 @@ nbproject
 # Compiled files
 
 *.hex
+
+# ISIS files
+ISIS/
+*.LYT
+*.SDF
